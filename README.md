@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me bryo.kim1@gmail.com
+- 📫 How to reach me bryo.kim@outlook.com
 
 <!---
 bryokim/bryokim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
